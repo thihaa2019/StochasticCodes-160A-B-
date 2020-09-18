@@ -1,3 +1,3 @@
-# This is for UCSB PSTAT 160A python homework winter 2020
-# Professor Tao Chen Spring 2020
+# This is for UCSB PSTAT 160A,160B python homework Winter,Spring
+# Professor Tao Chen and Professor Voss
 # Feel free to fork this repo without permission
